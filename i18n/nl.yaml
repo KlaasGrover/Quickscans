@@ -1,0 +1,29 @@
+- id: search
+  translation: Zoeken
+
+- id: search_placeholder
+  translation: Inhoud doorzoeken...
+
+- id: topics
+  translation: Browse Your Topics
+
+- id: first_name
+  translation: Voornaam
+
+- id: last_name
+  translation: Achternaam
+
+- id: email
+  translation: Email
+
+- id: contact_reason
+  translation: Reason of Contact
+
+- id: write_message
+  translation: Start Writing From Here
+
+- id: send
+  translation: Versturen
+
+- id: search_result
+  translation: Zoekresultaten voor
