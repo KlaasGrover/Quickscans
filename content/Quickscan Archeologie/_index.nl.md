@@ -1,8 +1,11 @@
 ---
 title: "Quickscan Archeologie"
 date: 2024-08-20T11:02:05+06:00
-weight: 7
-draft: false
+weight: 2
+icon: "far fa-user" # fontawesome icon : https://fontawesome.com/icons
+description: "Handleiding Quickscan Archeologie."
+# type dont remove or customize
+type : "docs"
 ---
 
 # Wat heb je nodig?

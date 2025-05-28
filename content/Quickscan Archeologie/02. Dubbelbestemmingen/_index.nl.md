@@ -14,6 +14,6 @@ draft: false
 	- Voer plan de naam van het plan.
 	- Voer status de status zonder haakjes.
 	- Voer identificatiecode de code zonder identificatie.
-6. Herhaal de stappen 2 t/m 5 voor een ander bestemmingsplan dat doorkruist wordt door het Tracé.
+6. Herhaal de stappen 2 t/m 5 voor elk ander bestemmingsplan dat doorkruist wordt door het Tracé.
 
 ![image](Invoer.png)

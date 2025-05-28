@@ -16,5 +16,5 @@ draft: false
 ![image](Bepalen_Bemaling.png "image")
 
 **Aanbevelingen:**
-- Verwijder evt. de alinea over bemalingen.
-- Verwijder evt. de 2 alinea’s over beschermingsgebieden
+- Verwijder eventueel de alinea over bemalingen.
+- Verwijder eventueel de 2 alinea’s over beschermingsgebieden

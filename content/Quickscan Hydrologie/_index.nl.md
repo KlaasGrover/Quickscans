@@ -1,8 +1,11 @@
 ---
 title: "Quickscan Hydrologie"
 date: 2024-08-20T11:02:05+06:00
-weight: 6
-draft: false
+weight: 1
+icon: "fas fa-sliders-h" # fontawesome icon : https://fontawesome.com/icons
+description: "Handleiding Quickscan Hydrologie"
+# type dont remove or customize
+type : "docs"
 ---
 
 # Wat heb je nodig?

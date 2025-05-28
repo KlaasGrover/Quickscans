@@ -6,14 +6,14 @@ draft: false
 ---
 
 **Grondwaterbeschermingsgebieden en waterkeringen**
-- Zoek op in welk waterschap (of waterschappen) de werkzaamheden liggen en vul deze in in de sjabloon
+- Zoek op in welk waterschap (of waterschappen) de werkzaamheden liggen en zet deze in het Word document
 - Zet de laag “Legger”> <waterschap> aan
-- Herken of er een gekleurd vlak ligt in binnen 1.000m van de werkzaamheden  en vul dit in als waterkeringsbeschermindszone in de sjabloon
+- Herken of er een gekleurd vlak ligt in binnen 1.000m van de werkzaamheden  en vul dit in als waterkeringsbeschermindszone in het Word document
 - Zet de laag “Omgevingsmanagement”>”Grondwaterbeschermingsgebied”> <provincie> aan
 
 ![image](Beschermingsgebieden_Laag.png "image")
 
-- Herken of er een gekleurd vlak ligt in binnen 1.000m van de werkzaamheden  en vul dit in als grondwaterbeschermingsgebied in de sjabloon,  Vul tevens “1.000” bij “@@meter”
+- Herken of er een gekleurd vlak ligt in binnen 1.000m van de werkzaamheden  en vul dit in als grondwaterbeschermingsgebied in het Word document,  Vul tevens “1.000” bij “@@meter”
 
 ![image](Beschermingsgebieden_Kaart.png "image")
 

@@ -20,7 +20,7 @@ draft: false
 	- C. een **uitzondering op het verbod** voor een maximale diepte **en** maximale oppervlakte (met alleen een overschrijding van de diepte geldt het verbod niet)
 	- D. een **uitzondering op het verbod** voor een maximale diepte **of** maximale oppervlakte (met alleen een overschrijding van de diepte geldt de uitzondering)
 4. Vul de tekst in:
-	- Gebruik voor 3a en 3b alleen de eerste paragraaf en verwerk de voorwaarden erin
-	- Werkzaamheden zijn vaak het aanleggen van leidingen
+	- Gebruik voor 3a en 3b alleen de eerste paragraaf en verwerk de voorwaarden erin.
+	- Werkzaamheden zijn vaak het aanleggen van leidingen.
 
 ![image](Relevant.png)
